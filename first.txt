@@ -1,1 +1,2 @@
 to jest pierwsza linia kodu
+to jest druga linia kodu
