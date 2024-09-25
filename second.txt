@@ -1,1 +1,2 @@
 to jest pierwsza linia
+druga tekst w komicie trzecim
